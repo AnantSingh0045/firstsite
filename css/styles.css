@@ -1,0 +1,263 @@
+
+.A
+{
+  text-align: center;
+  background-color: #36B5B0;
+}
+
+body
+{
+  margin: 0;
+}
+
+.B
+{
+  position:relative;
+  right: 400px;
+  top:40px;
+}
+
+
+.C{
+  color: #ffdc34;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+}
+
+.connect
+{
+  font-size: 50px;
+  font-family: 'Sacramento', cursive;
+  color: #ffdc34;
+  margin: 0;
+  position: relative;
+  top: 0.75em;
+}
+
+.connect-h3
+{
+  font-size: 30px;
+  margin: 0 4em;
+  position: relative;
+  top: 1.75em;
+}
+
+.connect-p
+{
+  position: relative;
+  top: 2.95em;
+  margin: .95em 4.95em;
+  font-size: 1.5em;
+}
+
+.contact
+{
+  padding: 3em;
+  color: #ffdc34;
+  position: relative;
+  top: 8.5em;
+  background-color: #2e279d;
+  border-radius: 100%;
+}
+
+.contact-me
+{
+  background-color: #36b5b0;
+  text-align: center;
+  padding-bottom: 23em;
+}
+
+.contact:hover
+{
+  background-color: #fa697c;
+  color: #2e279d;
+}
+
+.copyright
+{
+  position: relative;
+  top: 14em;
+}
+
+.D{
+  color: #ffdc34;
+  font-size: 30px;
+  font-family: 'Concert One', cursive;
+}
+
+.E{
+  position: relative;
+  bottom: 30px;
+  right: 180px;
+}
+
+.F{
+  height: 450px;
+  width: 100%;
+  position: relative;
+  top: 65px;
+}
+
+.facebook
+{
+  height: 2.95em;
+  width: 2.9em;
+  position: relative;
+  top:12.85em;
+}
+
+.G
+{
+  position: relative;
+  bottom: 650px;
+  left: 400px;
+}
+
+.H{
+  position: relative;
+  bottom: 400px;
+  left: 150px;
+}
+
+.h2
+{
+ font-family: 'Baloo Bhai', cursive;
+ font-size: 50px;
+ color: #007944;
+}
+
+hr
+{
+  text-align: center;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-top: dotted;
+  width: 15%;
+  color: #10316b;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.linkdin
+{
+  height: 3.35em;
+  width: 3.35em;
+  position: relative;
+  top: 13em;
+}
+
+.middle-container
+{
+  background-color: #beebe9;
+  margin: 0px;
+}
+
+.myskills
+{
+  font-size: 50px;
+  color: #007944;
+  font-family: 'Baloo Bhai', cursive;
+}
+
+.profile
+{
+  text-align: center;
+}
+
+.profile-p
+{
+  margin-bottom: 20px;
+  margin-left: 190px;
+  margin-right: 190px;
+  font-family: 'Istok Web', sans-serif;
+  font-size: 1.25em;
+
+}
+
+.photo
+{
+  margin-top: 30px;
+  height:  130px;
+  width: 140px;
+}
+
+.skills
+{
+  text-align: center;
+}
+
+.skill-row
+{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.skill-image
+{
+  height: 250px;
+  width: 250px;
+  display: block;
+  position: relative;
+  left: 10px;
+  bottom: -6em;
+}
+
+.skill2-image
+{
+  height: 250px;
+  width: 250px;
+  display: block;
+  position: relative;
+  left: 10px;
+  bottom: 15em;
+
+}
+
+.skill-a
+{
+  display: inline-block;
+  font-size: 40px;
+  color: #007944;
+  font-family: 'Baloo Bhai', cursive;
+  position: relative;
+  bottom: 3.5em;
+  left: 5.0em;
+}
+
+.skill1-p
+{
+  display: inline-block;
+  line-height: 1.42857143;
+  margin-left: 7.5em;
+  margin-right: 7em;
+  font-size: 1.5em;
+  position: relative;
+  bottom: 8em;
+  left: 7.9em;
+  font-family: 'Istok Web', sans-serif;
+}
+
+.skill2
+{
+  display: inline-block;
+  font-size: 40px;
+  color: #007944;
+  font-family: 'Baloo Bhai', cursive;
+  position: relative;
+  bottom: -1em;
+  left: 5.0em;
+
+}
+
+.skill2-p
+{
+  display: inline-block;
+  line-height: 1.42857143;
+  margin: 0.75em 6.5em;
+  font-size: 1.5em;
+  position: relative;
+  bottom: 0.5em;
+  left: 7.9em;
+  font-family: 'Istok Web', sans-serif;
+}
